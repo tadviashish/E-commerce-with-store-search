@@ -10,7 +10,7 @@
 <body>
   <nav class="navbar">
     <div class="left">
-      <p>E-Commerce</p>
+      <p>E-Commerce </p>
     </div>
 
     <div class="center">
